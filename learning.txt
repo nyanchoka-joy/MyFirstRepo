@@ -1,0 +1,4 @@
+echo I have learned how to use Git to track changes in my code projects. > learning.txt
+git add learning.txt
+git commit -m "Added learning.txt with course reflection
+git push origin main
