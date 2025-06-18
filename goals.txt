@@ -1,4 +1,4 @@
-# My Personal and Academic Goals for Next Year
+My Personal and Academic Goals for Next Year
 Complete my training in data analysis on ALX
 Build and deploy at least 3 real-world projects
 Contribute to open-source projects on GitHub
