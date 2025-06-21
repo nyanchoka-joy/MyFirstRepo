@@ -1,4 +1,1 @@
-echo I have learned how to use Git to track changes in my code projects. > learning.txt
-git add learning.txt
-git commit -m "Added learning.txt with course reflection
-git push origin main
+"What I have learned from this course" is how to use Git and GitHub for version control, manage repositories, create branches, and collaborate through pull requests. This hands-on experience has improved my confidence in contributing to open-source projects and managing personal code efficiently." > learning.txt
